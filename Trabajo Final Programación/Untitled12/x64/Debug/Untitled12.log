@@ -1,0 +1,58 @@
+﻿  MyForm.cpp
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(111): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(179): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\aliados.h(103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\final.h(24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\corruptn.h(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\impostor.h(98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform2.h(163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform2.h(167): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform2.h(170): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(230): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(231): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(232): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(233): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(379): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\user\desktop\trabajo final programación\untitled12\myform.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyForm1.cpp
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(111): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(179): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\aliados.h(103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\final.h(24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\corruptn.h(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\impostor.h(98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform2.h(163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform2.h(167): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform2.h(170): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(230): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(231): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(232): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(233): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform.h(379): warning C4553: '==': result of expression not used; did you intend '='?
+  MyForm2.cpp
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(111): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\jugador.h(179): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\aliados.h(103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\final.h(24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\corruptn.h(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\impostor.h(98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform2.h(163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform2.h(167): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\trabajo final programación\untitled12\myform2.h(170): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MyForm3.cpp
+  Generating Code...
+c:\users\user\desktop\trabajo final programación\untitled12\myform.cpp(14): warning C4700: uninitialized local variable 'f' used
+c:\users\user\desktop\trabajo final programación\untitled12\myform.cpp(14): warning C4700: uninitialized local variable 'a' used
+c:\users\user\desktop\trabajo final programación\untitled12\myform.cpp(14): warning C4700: uninitialized local variable 'v' used
+c:\users\user\desktop\trabajo final programación\untitled12\myform.cpp(14): warning C4700: uninitialized local variable 's' used
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Untitled12.vcxproj -> C:\Users\USER\Desktop\Trabajo Final Programación\x64\Debug\Untitled12.exe
