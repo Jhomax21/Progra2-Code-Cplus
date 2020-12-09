@@ -1,0 +1,25 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(87): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(92): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(148): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(150): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(158): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(158): warning C4129: '_': unrecognized character escape sequence
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(158): warning C4129: ' ': unrecognized character escape sequence
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(159): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(160): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(166): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(170): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(200): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(288): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: see declaration of 'kbhit'
+c:\users\user\documents\visual studio 2017\projects\project45\project45\source.cpp(295): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project45.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Project45\Debug\Project45.exe
