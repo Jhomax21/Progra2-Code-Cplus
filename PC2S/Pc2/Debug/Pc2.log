@@ -1,0 +1,12 @@
+﻿  FrmMenu.cpp
+c:\users\user\desktop\pc2s\pc2\objanimado.h(3): warning C4570: 'ObjAnimado': is not explicitly declared as abstract but has abstract functions
+  c:\users\user\desktop\pc2s\pc2\objanimado.h(3): note: 'void ObjAnimado::dibujar(System::Drawing::Graphics ^)': is abstract
+  c:\users\user\desktop\pc2s\pc2\objanimado.h(22): note: see declaration of 'ObjAnimado::dibujar'
+  FrmPrincipal.cpp
+c:\users\user\desktop\pc2s\pc2\objanimado.h(3): warning C4570: 'ObjAnimado': is not explicitly declared as abstract but has abstract functions
+  c:\users\user\desktop\pc2s\pc2\objanimado.h(3): note: 'void ObjAnimado::dibujar(System::Drawing::Graphics ^)': is abstract
+  c:\users\user\desktop\pc2s\pc2\objanimado.h(22): note: see declaration of 'ObjAnimado::dibujar'
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  FrmMenu.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Pc2.vcxproj -> C:\Users\USER\Desktop\PC2S\Debug\Pc2.exe
