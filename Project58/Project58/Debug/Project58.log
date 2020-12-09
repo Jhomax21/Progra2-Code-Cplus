@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+c:\users\user\documents\visual studio 2017\projects\project58\project58\mario.h(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project58\project58\myform.h(143): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\project58\project58\mario.h(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project58\project58\myform.h(143): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project58.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Project58\Debug\Project58.exe
