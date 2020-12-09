@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\project48\project48\source.cpp(54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project48\project48\source.cpp(57): warning C4244: 'initializing': conversion from 'float' to 'short', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project48\project48\source.cpp(68): warning C4244: 'initializing': conversion from 'float' to 'short', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project48\project48\source.cpp(69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project48.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Project48\Debug\Project48.exe
