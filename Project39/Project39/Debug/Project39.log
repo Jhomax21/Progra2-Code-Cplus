@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(37): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(38): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(39): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(43): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(45): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(51): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(53): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(67): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\vehiculo.h(68): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\visual studio 2017\projects\project39\project39\source.cpp(125): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: vea la declaración de 'getch'
+c:\users\user\documents\visual studio 2017\projects\project39\project39\source.cpp(131): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: vea la declaración de '_sleep'
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project39.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Project39\Debug\Project39.exe
