@@ -1,0 +1,8 @@
+Codigo de Diagrama en YUML:
+
+[controladora]1++-1>[pikachu]
+[controladora]1++-1..*>[pokebolas]
+[controladora]1++-1>[archives]
+[pikachu]1-.-1>[archives]
+[move]^-[pikachu]
+[move]^-[pokebolas]

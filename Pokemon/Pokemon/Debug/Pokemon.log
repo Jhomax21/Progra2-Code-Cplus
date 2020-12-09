@@ -1,0 +1,18 @@
+﻿  MyForm.cpp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\controladora.h(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\controladora.h(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\controladora.h(47,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\controladora.h(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\MyForm.h(164,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\MyForm.h(164,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\controladora.h(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\controladora.h(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\controladora.h(47,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\controladora.h(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\MyForm.h(164,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Pokemon\MyForm.h(164,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Pokemon.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Pokemon\Debug\Pokemon.exe
