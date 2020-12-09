@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\mover.h(20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\myform.h(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\mover.h(20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\control.h(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\paracaidas\paracaidas\myform.h(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Paracaidas.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Paracaidas\Debug\Paracaidas.exe
