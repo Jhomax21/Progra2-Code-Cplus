@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\project33\project33\source.cpp(112): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: vea la declaración de 'kbhit'
+c:\users\user\documents\visual studio 2017\projects\project33\project33\source.cpp(113): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: vea la declaración de 'getch'
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project33.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Project33\Debug\Project33.exe
