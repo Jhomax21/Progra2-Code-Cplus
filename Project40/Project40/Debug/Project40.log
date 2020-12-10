@@ -1,0 +1,38 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(70): warning C4129: '_': unrecognized character escape sequence
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(100): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(104): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(108): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(112): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(116): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(120): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\terrestre.h(124): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\persona.h(45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\persona.h(52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\persona.h(58): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\persona.h(62): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\project40\project40\juego.h(123): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: see declaration of 'kbhit'
+c:\users\user\documents\visual studio 2017\projects\project40\project40\juego.h(130): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project40.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Project40\Debug\Project40.exe
