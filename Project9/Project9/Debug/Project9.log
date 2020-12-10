@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\project9\project9\source.cpp(21): warning C4005: 'Max_filas_ganaste': redefinición de macro
+  c:\users\user\documents\visual studio 2017\projects\project9\project9\source.cpp(20): note: vea la definición anterior de 'Max_filas_ganaste'
+c:\users\user\documents\visual studio 2017\projects\project9\project9\source.cpp(1016): warning C4101: 'cant': variable local sin referencia
+c:\users\user\documents\visual studio 2017\projects\project9\project9\source.cpp(1569): warning C4700: se utilizó la variable local 'ycs' sin inicializar
+c:\users\user\documents\visual studio 2017\projects\project9\project9\source.cpp(1569): warning C4700: se utilizó la variable local 'xcs' sin inicializar
+c:\users\user\documents\visual studio 2017\projects\project9\project9\source.cpp(1569): warning C4700: se utilizó la variable local 'xct' sin inicializar
+c:\users\user\documents\visual studio 2017\projects\project9\project9\source.cpp(1569): warning C4700: se utilizó la variable local 'yct' sin inicializar
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project9.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Project9\Debug\Project9.exe
